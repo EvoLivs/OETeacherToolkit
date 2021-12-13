@@ -52,5 +52,10 @@ namespace OETeacherToolkit
         {
 
         }
+
+        private void Interval_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

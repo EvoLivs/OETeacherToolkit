@@ -38,5 +38,10 @@ namespace OETeacherToolkit
         {
 
         }
+
+        private void Dice_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

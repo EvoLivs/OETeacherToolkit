@@ -31,7 +31,7 @@ namespace OETeacherToolkit
             x += xv;
             y += yv;
             if (x < 0 || x +50 > pictureBox1.Width) { xv *= -1; }
-            if (y < 0 || y +50> pictureBox1.Height) { yv *= -1; }
+            if (y < 0 || y +50 > pictureBox1.Height) { yv *= -1; }
 
             Refresh();
 

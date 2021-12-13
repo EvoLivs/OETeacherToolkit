@@ -120,4 +120,17 @@
   <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEADAgAAAEAIADIAQAAFgAAACgAAAAMAAAAEAAAAAEAIAAAAAAAgAEAAMMOAADDDgAAAAAAAAAA
+        AAAAAAAAAAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAAAAAAAAAAAAAAAAAD/GMr//xjK
+        //8Yyv//GMr//xjK//9BQUH/GMr//0FBQf8AAAD/AAAAAAAAAAAAAAD/GMr//wDy//8A8v//APL//wDy
+        //9YWFj/APL//1hYWP8AAAD/AAAA/wAAAP8AAAD/APL//wAAAP8A8v//AAAA/wDy//9YWFj/APL//1hY
+        WP8AAAD/AAAAAAAAAAAAAAD/APL//wDy//8A8v//APL//wDy///Dw8P/puz9/8PDw/8AAAD/AAAAAAAA
+        AAAAAAAAAAAA/wAAAP8AAAD/AAAA//v/jP/7/4z/AAAA/wAAAP8AAAAAAAAAAAAAAAAAAAAAAAAAANuY
+        AP/bmAD/25gA//v/jP/7/4z/+/+M//z/rf8AAAAAAAAAAAAAAAAAAAAAAAAAANuYAP/zqAD/AAAAAAAA
+        AAD8/63//P+t/wAAAAAAAAAAAAAAAAAAAACAcAAAADAAAAAAAAAAMAAAADAAAIBwAADAcAAAzPAAAA==
+</value>
+  </data>
 </root>

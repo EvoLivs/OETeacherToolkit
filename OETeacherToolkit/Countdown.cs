@@ -37,5 +37,10 @@ namespace OETeacherToolkit
             Thirtymin form = new Thirtymin();
             form.Show();
         }
+
+        private void Countdown_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
